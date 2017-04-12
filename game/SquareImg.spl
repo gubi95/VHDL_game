@@ -1,0 +1,11 @@
+[Inputs]
+ReadJoystick
+Clk
+=X[9:0]=
+=Y[9:0]=
+=ADC_A[13:0]=
+=ADC_B[13:0]=
+[Outputs]
+=RGB[2:0]=
+=Led[7:0]=
+[BiDir]
