@@ -7,5 +7,4 @@ Clk
 =ADC_B[13:0]=
 [Outputs]
 =RGB[2:0]=
-=Led[7:0]=
 [BiDir]
